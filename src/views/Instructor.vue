@@ -1,6 +1,6 @@
 <template>
     <div>
-      <img src="https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png">
+      <img src="https://mmbiz.qpic.cn/mmbiz_jpg/ScVbwhLmJdicREyicPSoyCViaK88oKiaf7zF2XntOCN8gb3qN8bvtico5pLCzcJM0vQbAUdMicqBjnHmLxibL9zsBMsvA/640?wx_fmt=jpeg&amp;from=appmsg">
       <h1>self-introduction</h1>
   
   

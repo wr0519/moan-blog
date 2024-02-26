@@ -6,7 +6,7 @@
       <p id="information">
         If you want to obtain this information, please connect to the campus network and click on the provided link.The password is the abbreviation of the school, consisting of four letters.
       </p>
-      <el-link icon="el-icon-download" href="http://101.7.173.50:12345/s/BxtG" download target="_blank">
+      <el-link icon="el-icon-download" href="http://101.7.173.50:12345/s/qVid" download target="_blank">
         Click Me
       </el-link>
     </el-tab-pane>
